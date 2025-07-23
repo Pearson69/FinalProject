@@ -1,6 +1,6 @@
 # AlphaRec
 A convolutional neural network (CNN) implementation using TensorFlow/Keras to recognize handwritten Latin characters (A-Z).
-
+![MNIST Database](https://github.com/Pearson69/FinalProject/blob/54c29da6616730666b3262d8b25be09201645888/English_MNIST.png)
 ## Dataset 
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
@@ -17,8 +17,5 @@ NVIDIA CUDA-enabled drivers
 **97.35%** Validation Accuracy  
 **0.0324** Test Loss  
 
-##
-
-
-
-# FinalProject
+## Run This Project
+1. Install all the dependencies
